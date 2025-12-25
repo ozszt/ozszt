@@ -6,7 +6,7 @@
 </p>
 <pre>
     💼 MSc @ KTH • Cybersecurity Student 
-    💻 C, Java, Pythin • CTF competitions • Web exploitation
+    💻 C/C++, Java, Python • CTF competitions • Web exploitation
     📖 Network security • Protocol design • Secure systems
     🎮 Music • Games • Anime • Books 
 </pre>
