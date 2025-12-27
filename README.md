@@ -18,6 +18,6 @@
 [![](https://img.shields.io/badge/mail-69899c)](mailto:chloewabran@gmail.com)
 <!--[![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/4606212)-->
 <pre>
-        Currently working on: <a href="https://github.com/ozszt/Study-Gacha">Study Timer / Pomodoro with Gacha reward system ♡</a>
+        Currently working on: Study Timer / Pomodoro with Gacha reward system ♡
 </pre>
 </div>
